@@ -5,6 +5,10 @@
 ## 最新版本下载
 请前往 [Releases](https://github.com/DTChang-0625/Rustlight) 页面下载最新版本的 PC 版或安卓版。
 
+## 许可证
+本游戏采用 [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/) 进行许可。所有游戏代码、美术资源、文本内容均受 CC BY-NC 4.0 保护。  
+您可以自由分享、修改本作品，但**不得用于商业目的**，且必须署名原作者（蛋挞常）。
+
 ## 开发与反馈
 - 交流群：1059600548
 - 问题反馈：请加入交流群提出
